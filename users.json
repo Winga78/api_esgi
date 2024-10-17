@@ -1,0 +1,19 @@
+{
+  "register": [
+    {
+      "id": "4bfc",
+      "email": "user02@gmail.com",
+      "password": "$2b$10$vcNQpITn6zeAx8uTxz3Wo.Pmd8iQl6W358yFvGhsdCO5WIvwHn0Ie"
+    }
+  ],
+  "products": [],
+  "carts": [
+    {
+      "id": "132c",
+      "price": "75",
+      "UserID": "0050",
+      "ProductID": "d013",
+      "quantity": "15"
+    }
+  ]
+}
